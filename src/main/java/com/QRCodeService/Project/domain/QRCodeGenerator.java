@@ -13,7 +13,7 @@ import java.util.Map;
 
 public class QRCodeGenerator {
 
-    BufferedImage bufferedImage;
+    private final BufferedImage bufferedImage;
 
 
     public QRCodeGenerator(int size, String data, String errorCorrection) throws WriterException {
