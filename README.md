@@ -1,7 +1,7 @@
 ## QR Code Generator
 
 
-- QR Code Generator is a Spring Boot backend application that generates QR Codes. It allows users to generate QR Codes with different parameters.
+- QR Code Generator is a Spring Boot backend application that allows users to generate QR Codes with different parameters.
 
 ## Features
 
